@@ -1,7 +1,7 @@
 # Site settings
-title: "Portalco LLC"
-email: "info@portalco.net"
-description: "Portalco is a intername software company" 
+title: "GNetwork Inc"
+email: "info@gnetworkinc.com"
+description: "GNetwork networks the data economy" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
