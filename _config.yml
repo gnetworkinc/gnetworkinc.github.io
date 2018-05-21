@@ -1,0 +1,12 @@
+# Site settings
+title: "Portalco LLC"
+email: "info@portalco.net"
+description: "Portalco is a intername software company" 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: "@portalco"
+github_username: portalco
+
+# Build settings
+markdown: kramdown
